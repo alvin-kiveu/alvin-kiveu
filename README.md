@@ -7,7 +7,7 @@
 - 💬 Ask me about Android,Desktop and Web Development
 - 🕸 get my software product on <a href="http://umeskiasoftwares.com/">Umeskia softwares</a>
 - 📫 How to reach me: info@umekiasoftwares.com
--⚡ Fun fact: Coding is an art
+- ⚡ Fun fact: Coding is an art
 
 
 <div style="display:flex; justify-content: space-evenly;">
