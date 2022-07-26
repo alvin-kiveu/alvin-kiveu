@@ -1,9 +1,4 @@
-<H1>😎 UMESKIA SOFTWARES DEV ZONE 😎</H1>
-<div style="text-align:center;">
-<img style="width:100%; height:400px; border-radius:50%;" src="https://umeskiasoftwares.com/images/u.png"/>
-</div>
-
-
+<H1>😎 ALVIN KIVEU 😎</H1>
 
 - 🔭 I’m currently working on Cloud Billing Hotspot Manager
 - 🌱 I’m currently learning C# for game development...
