@@ -13,7 +13,7 @@
 - 🕸 get my software product on <a href="http://umeskiasoftwares.com/">Umeskia softwares</a>
 - 📫 How to reach me: info@umekiasoftwares.com
 
-<br><br>
+
 <div style="display:flex; justify-content: space-evenly;">
 <img style="width:50px; height:50px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
   <img style="width:50px; height:50px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
