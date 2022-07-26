@@ -2,7 +2,9 @@
 <div style="text-align:center;">
 <img style="width:100%; height:400px; border-radius:50%;" src="https://umeskiasoftwares.com/images/u.png"/>
 </div>
-<br><br>
+
+
+
 - 🔭 I’m currently working on Cloud Billing Hotspot Manager
 - 🌱 I’m currently learning C# for game development...
 - 👯 I’m looking to collaborate on cool projects
