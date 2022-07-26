@@ -13,7 +13,8 @@
 
 
 <div style="display:flex; justify-content: space-evenly;">
-<img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+<img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
   <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
   <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+    <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
 </div>
