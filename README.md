@@ -1,5 +1,5 @@
 <H1>😎 UMESKIA SOFTWARES DEV ZONE 😎</H1>
-<div style="text-align:center;>
+<div style="text-align:center;">
 <img style="width:100px; height:100px; border-radius:50%;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
 </div>
 
