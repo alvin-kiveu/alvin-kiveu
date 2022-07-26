@@ -12,6 +12,8 @@
 - 📫 How to reach me: info@umekiasoftwares.com
 
 
-<div style="display:flex">
+<div style="display:flex; justify-content: space-evenly;">
 <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+  <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+  <img style="width:50px; height:50px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
 </div>
