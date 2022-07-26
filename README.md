@@ -1,6 +1,6 @@
 <H1>😎 UMESKIA SOFTWARES DEV ZONE 😎</H1>
 <div style="text-align:center;">
-<img style="width:100px; height:100px; border-radius:50%;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+<img style="width:100%; height:400px; border-radius:50%;" src="https://umeskiasoftwares.com/images/u.png"/>
 </div>
 
 - 🔭 I’m currently working on Cloud Billing Hotspot Manager
@@ -11,7 +11,7 @@
 - 🕸 get my software product on <a href="http://umeskiasoftwares.com/">Umeskia softwares</a>
 - 📫 How to reach me: info@umekiasoftwares.com
 
-
+<br><br><br>
 <div style="display:flex; justify-content: space-evenly;">
 <img style="width:50px; height:50px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
   <img style="width:50px; height:50px;" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
