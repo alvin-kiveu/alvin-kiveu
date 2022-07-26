@@ -1,7 +1,6 @@
 <H1>😎 UMESKIA SOFTWARES DEV ZONE 😎</H1>
-<hr>
 
-<img src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
+<img style="width:100px; height:100px;" src="https://umeskiasoftwares.com/images/umeskia_s.png"/>
 
 
 - 🔭 I’m currently working on Cloud Billing Hotspot Manager
