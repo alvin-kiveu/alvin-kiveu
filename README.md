@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about Android,Desktop and Web Development
 - 🕸 get my software product on <a href="http://umeskiasoftwares.com/">Umeskia softwares</a>
-- 📫 How to reach me: info@umekiasoftwares.com
+- 📫 How to reach me: alvo967@gmail.com
 - ⚡ Fun fact: Coding is an art
 
 YOUTUBE CHANNEL => UMESKIA SOFTWARES <a href="https://www.youtube.com/channel/UCwS0SnzIrp5gXJD3-9XIuFA" style="color:red; font-weight:bold;" >SUBSCRIBE</a>
