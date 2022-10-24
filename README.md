@@ -1,10 +1,5 @@
 <h1 align="center">Yooh!! 👋 am Alvin Kiveu</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-kiveu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-kiveu" alt="alvin-kiveu" /></a> </p>
-
 - 🔭 I’m currently working on **Cloud Billing Hotspot Manager**
 
 - 🌱 I’m currently learning **C#**
@@ -18,6 +13,10 @@
 - 💬 Ask me about **PHP,NODE.JS AND PYTHON**
 
 - 📫 How to reach me **alvo967@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat" alt="alvin-kiveu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvin-kiveu" alt="alvin-kiveu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
