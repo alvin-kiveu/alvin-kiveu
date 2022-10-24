@@ -1,5 +1,5 @@
 <H1>😎 ALVIN KIVEU 😎</H1>
-
+Profile Hits : [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
 - 🔭 I’m currently working on Cloud Billing Hotspot Manager & keDevForum
 - 🌱 I’m currently learning C# for game development...
 - 👯 I’m looking to collaborate on cool projects
