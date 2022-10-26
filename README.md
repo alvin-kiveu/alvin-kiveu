@@ -1,5 +1,6 @@
 <h1>Yooh!! 👋 am Alvin Kiveu</h1>
 <h3>A passionate frontend developer from Kenya</h3>
+
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
@@ -43,6 +44,6 @@ https://github.com/alvin-kiveu/
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=kotlin,js,py,php,cs,nodejs,html,css,bootstrap,jquery,visualstudio,vscode,laravel,django,mongodb,mysql,wordpress,androidstudio,aws,kubernetes,heroku,docker,github,git,linux" />
+      src="https://skillicons.dev/icons?i=kotlin,js,py,php,cs,nodejs,html,css,bootstrap,jquery,visualstudio,vscode,laravel,django,mongodb,mysql,wordpress,androidstudio,gcp,aws,kubernetes,heroku,docker,github,git,linux" />
   </a>
 </p>
