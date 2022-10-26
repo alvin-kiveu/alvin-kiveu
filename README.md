@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0CF709&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
 <h3>A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img
