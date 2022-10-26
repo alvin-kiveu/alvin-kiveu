@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
 <h3>A passionate frontend developer from Kenya</h3>
 
 <p align="left"> <img
@@ -52,6 +53,3 @@
 ```md
 https://github.com/alvin-kiveu/
 ```
-
-- name: generate-snake-game-from-github-contribution-grid
-uses: Platane/snk@v2.0.0-rc.2
