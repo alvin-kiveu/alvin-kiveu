@@ -42,6 +42,6 @@ https://github.com/alvin-kiveu/
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,py,php,git,aws,kubernetes,docker" />
   </a>
 </p>
