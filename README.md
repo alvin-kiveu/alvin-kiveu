@@ -1,26 +1,17 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
-<h3>A passionate frontend developer from Kenya</h3>
+
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
-- 🔭 I’m currently working on Cloud Billing Hotspot Manager
+Welcome to my page!
 
-- 🌱 I’m currently learning C#
-
-- 👯 I’m looking to collaborate on cool projects
-
-- 👨‍💻 All of my projects are available at [https://umeskiasoftwares.com](https://umeskiasoftwares.com)
-
-- 📝 I regularly write articles on [https://umeskiasoftwares.com/blog](https://umeskiasoftwares.com/blog)
-
-- 💬 Ask me about **PHP,NODE.JS AND PYTHON**
-
-- 📫 How to reach me **alvo967@gmail.com**
+I'm Alvin, Fullstack developer from kenya. I'm a creative problem solving enthusiast, with a constantly growing love for technology.
 
 
-# 💻 Tech Stack:
+Things I code with
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
