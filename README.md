@@ -17,6 +17,11 @@
 
 - 📫 How to reach me **alvo967@gmail.com**
 
+<h1>Copy Profile</h1>
+
+```md
+https://github.com/alvin-kiveu/
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +40,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
