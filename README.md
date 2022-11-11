@@ -42,5 +42,4 @@ Things I code with
 https://github.com/alvin-kiveu/
 ```
 
-<h1>Company Logo</h1>
-<img src="img/logo.png" width="100" height="100">
+<img src="img/pro.png" width="100" height="100">
