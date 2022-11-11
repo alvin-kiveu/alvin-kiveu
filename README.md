@@ -1,14 +1,12 @@
 [![Typing
 SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
 
-
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
 Welcome to my page!
 
 I'm Alvin, Fullstack developer from kenya. I'm a creative problem solving enthusiast, with a constantly growing love for technology.
-
 
 Things I code with
 
@@ -38,9 +36,11 @@ Things I code with
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 <h1>Copy Profile</h1>
 
 ```md
 https://github.com/alvin-kiveu/
 ```
+
+<h1>Company Logo</h1>
+<img src="img/logo.png">
