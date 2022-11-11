@@ -42,4 +42,4 @@ Things I code with
 https://github.com/alvin-kiveu/
 ```
 
-<img src="img/pro.png" width="100" height="100">
+<img src="coding_gif.gif" width="100%" height="500">
