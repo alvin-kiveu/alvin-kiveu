@@ -4,9 +4,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&col
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
+    
 Welcome to my page!
 
-Hey there! My name is Alvin, and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
+Hey there! My name is Alvin Kiveu , and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
 
 What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. This keeps me on my toes and helps me stay up-to-date with the latest trends and best practices in the industry.
 
