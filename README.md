@@ -5,11 +5,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&col
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
   
-<h1>Join Programmer's Forum</h1>
+<h1>SUBSCRIBE TO UMESKIA SOFTWARES YOUTUBE CHANNEL</h1>
 
-```md
-https://kedevforum.com/
-```
+Click <a href="https://www.youtube.com/@umeskiasoftwares"> here </a>to subscribe
 
 
 Welcome to my page!
