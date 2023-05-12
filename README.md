@@ -5,20 +5,19 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&col
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
     alt="alvin-kiveu" /> </p>
   
-<h1>SUBSCRIBE TO UMESKIA SOFTWARES YOUTUBE CHANNEL</h1>
+Welcome to my Github page!
 
-Click <a href="https://www.youtube.com/@umeskiasoftwares"> here </a>to subscribe
-
-
-Welcome to my page!
-
-Hey there! My name is Alvin Kiveu , and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
+My name is Alvin Kiveu , and I'm a fullstack developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on both the front-end and back-end of web applications, which allows me to have a diverse range of technical abilities.
 
 What I enjoy most about being a fullstack developer is the opportunity to constantly learn and adapt to new technologies. This keeps me on my toes and helps me stay up-to-date with the latest trends and best practices in the industry.
 
 One thing that sets me apart as a fullstack developer is my strong communication and collaboration skills. I understand that teamwork is key to delivering high-quality projects, and I always strive to communicate my ideas clearly and work effectively with others to achieve our goals.
 
 Overall, I'm excited about the future of technology and the role I can play in shaping it as a fullstack developer.
+
+<h4>SUBSCRIBE TO UMESKIA SOFTWARES YOUTUBE CHANNEL</h4>
+
+Click <a href="https://www.youtube.com/@umeskiasoftwares"> here </a>to subscribe
 
 Things I code with
 
