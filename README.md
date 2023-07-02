@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=640&height=60&lines=I+am+Alvin+Kiveu+currently+learning+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=1000&height=60&lines=I+am+Alvin+Kiveu+currently+learning+Flutter)](https://git.io/typing-svg)
 
 
 
