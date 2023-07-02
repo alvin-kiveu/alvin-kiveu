@@ -1,5 +1,5 @@
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=440&height=60&lines=Hello++%F0%9F%91%8B+am++Alvin+kiveu+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0CF709&vCenter=true&width=640&height=60&lines=I+am+Alvin+Kiveu+currently+learning+Flutter)](https://git.io/typing-svg)
+
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=alvin-kiveu&label=Profile%20views&color=0e75b6&style=flat"
